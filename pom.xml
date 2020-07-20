@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ibm.currency.eureka</groupId>
-	<artifactId>CurencyDiscovery-server</artifactId>
+	<artifactId>CurencyEurekaServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CurencyDiscovery-server</name>
+	<name>CurencyEurekaServer</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
