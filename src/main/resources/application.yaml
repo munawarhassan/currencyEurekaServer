@@ -4,3 +4,4 @@ eureka:
   client:
     registerWithEureka: false
     fetchRegistry: false
+  server:    peer-node-read-timeout-ms: 10000
